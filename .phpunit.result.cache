@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SyntaxErrorTest::testWtfZone":4},"times":{"SyntaxErrorTest::testWtfZone":0.003,"SyntaxOkTest::testExampleCom":0.003,"SyntaxOkTest::testInfiniteBugZone":0.001,"SyntaxOkTest::testLifunRu":0.001,"SyntaxOkTest::testHell":0.002,"SyntaxOkTest::testWrongSoa":0.001,"SyntaxOkTest::testWhiteSpaceAtEnd":0}}

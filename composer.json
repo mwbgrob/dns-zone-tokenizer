@@ -1,0 +1,28 @@
+{
+  "name": "golding/dns-zone-tokenizer",
+  "license": "MIT",
+  "type": "library",
+  "description": "tokenize dns zone files and that's all, folks.",
+  "keywords": [
+    "dns", "dns zone", "dns parser"
+  ],
+  "authors": [
+    {
+      "name": "Viskov Sergey",
+      "homepage": "https://github.com/voksiv"
+    },
+    {
+      "name": "Marco Grob",
+      "homepage": "https://github.com/mwbgrob"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "golding/stringstream" : "~v1.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Golding\\dns": "src"
+    }
+  }
+}

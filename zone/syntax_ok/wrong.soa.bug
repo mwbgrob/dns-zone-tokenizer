@@ -1,0 +1,9 @@
+@	3600 IN	SOA     ns1.beget.ru. hostmaster.beget.ru. (
+                     2013041517         ; Serial
+			   3600		; Refresh
+			    600         ; Retry
+                          86400         ; Expire
+			   3600 )	; Negative Cache TTL
+;
+@	3600 IN	NS	ns1.beget.ru.
+@	3600 IN	NS	ns2.beget.ru.
